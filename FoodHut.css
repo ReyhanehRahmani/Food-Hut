@@ -1,0 +1,81 @@
+body {
+    width: 100%;
+    font-family: "Inter", sans-serif;
+
+}
+
+
+#FoodHutLogo{
+    width: 22.663551402%;
+    height: 7.948717949%;
+    margin-top: 3.076923077%;
+    margin-left: 5.607476636%;
+    display: inline-block;
+}
+
+/*#NavbarSlider{
+    margin-top: 41px;
+    margin-right: 5.6vw;
+    float: right;
+    position: fixed;
+    border: 2px solid red;
+}
+
+.slider{
+    width: 36px;
+    height: 5px;
+    border-radius: 17px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    gap: 6px;
+    background: rgba(25, 25, 25, 1);
+    margin-right: 24px;
+
+}*/
+
+#HeartBox{
+    width: 32.476635514%;
+    height: 3.58974359%;
+    margin-top: 19.230769231%;
+    margin-left: 7.710280374%;
+    border-radius: 100px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+#trust{
+    font-weight: 400;
+    font-size: 87.5%;
+    line-height: 100%;
+    letter-spacing: 0%;
+    align-items: center;
+    justify-content: center;
+    color: rgba(25, 25, 25, 1);
+
+}
+
+#Heart{
+    width: 4.672897196%;
+    height: 2.173913043%;
+    padding-left: 1.168224299%;
+}
+
+#BigBox1{
+    width: 88.785046729%;
+    height: 21.058315335%;
+    align-content: center;
+    margin-top: 21.382289417%;
+    margin-left: 5.607476636%;
+    border: 2px solid red;
+
+}
+
+#Box1Paragragh{
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 195%;
+    letter-spacing: 0%;
+}
